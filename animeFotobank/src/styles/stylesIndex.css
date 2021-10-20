@@ -1,0 +1,13 @@
+.container{
+  margin: 1rem 0 1rem auto;
+  gap: 0.5rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100vw;
+}
+
+.content{
+  margin: auto;
+
+}

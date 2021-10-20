@@ -1,0 +1,42 @@
+.titulo{
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 5px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.conteudo{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    display: block;
+}
+body,html{
+    height: 100%;
+    margin: auto;
+    align-items: center;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+}
+.imgFundo{
+    height: 50%;
+    position: relative;
+    opacity: 0.65;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagem{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    height: 100%;
+    width: 100% ;
+}
